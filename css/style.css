@@ -9137,7 +9137,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     width: 360%;
-    background: #2f89fc; }
+    background: #F39C12 ; }
   @media (max-width: 767.98px) {
     .aside-stretch-2 {
       background: transparent; }
@@ -9221,7 +9221,7 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .9;
-    background: #2f89fc; }
+    background: #F39C12  ; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
